@@ -2,3 +2,9 @@ let weight = 68;
 let height = 1.7 * 1.7;
 
 console.log(weight / height);
+
+weight = 68;
+height = 1.7;
+let BMI = weight / (height * height);
+
+console.log(BMI);
