@@ -2,7 +2,7 @@ const holidays = ["正月","成人の日","建国記念日","天皇誕生日","�
 
 
 let i = 0;
-while (i < 15) {
+while (i < 16) {
     console.log(holidays[i]);
     i++;
 }
